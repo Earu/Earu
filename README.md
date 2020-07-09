@@ -1,4 +1,4 @@
-## 🚀 Intro 
+## 🚀 Introduction
 Welcome to my profile you can find the diverse projets I've been working on **over the years**. A good part of them are related to the game that made me progress a lot in programming: *Garry's Mod*. The rest are projets that I've created following a specific need for example like [this](https://github.com/Earu/Octovisor).
 
 ## ⚙️ What I do 
