@@ -8,3 +8,4 @@ Nowadays I work for one of the biggest IT related companies in the world (CAC40 
 - [Energizers](https://github.com/Energizers) is my organization where all the projects linked to [Energize](https://github.com/Energizers/Energize) are located, one of my biggest projects.
 - [Meta Construct](https://github.com/Metastruct) is where I contribute most of the code for Garry's Mod I produce that is open-source.
 - [PAC Server](https://github.com/PAC3-Server) is where I participated in the development of a game server for people using [PAC3](https://github.com/CapsAdmin/pac3).
+- [Zero](https://github.com/pac-zero) is my on-going project to build a blueprint editor for [PAC3](https://github.com/CapsAdmin/pac3) and any other kind of workflow.
